@@ -15,6 +15,10 @@ It's easy to install Heon. Once you've met the requirements, you can just drag t
 
 There's already made a preview on how you can set it up, but it's entirely up to yourself.
 
+## TODO
+
+* Make an easier way for adding navigations
+
 ## Credits
 
 I would like to thank these guys for the libraries that I used.
