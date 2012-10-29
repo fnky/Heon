@@ -7,7 +7,7 @@ A very simple PHP framework built upon [klein.php](https://github.com/chriso/kle
 
 Make sure you meet the requirements below
 
-* PHP
+* PHP 5.3+
 
 ## Installation
 
