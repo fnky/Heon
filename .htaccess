@@ -1,0 +1,6 @@
+Header set Connection Keep-Alive
+Options +FollowSymlinks -Indexes
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !\.(png|gif|ico|swf|jpe?g|js|css)$
+RewriteRule . index.php [L]
